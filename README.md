@@ -2,4 +2,4 @@
 this is my github
 <br>
 <br>
-author: Haseeb Ahmad
+author: Haseeb Ahmad (software Engg.)
